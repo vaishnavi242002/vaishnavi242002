@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Vaishnavi Rana</h1>
-💫 About Me:
+# 💫 About Me:
 🧩 Believer in the power of collaboration—let's build something amazing together!<br>🎓 I have a B.Tech in Electronics and Communication.<br>💻 My favorite programming languages are Java and Python.<br>🌱 I’m currently learning AWS and DevOps Practices.<br>💬 Ask me about -  Backend development, RESTful APIs and Microservices.<br>⚡ Fun fact - I love to cycle and swim whenever I get the chance!
 
 
