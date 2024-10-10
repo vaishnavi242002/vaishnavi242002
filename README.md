@@ -1,7 +1,5 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-
-
 ### <div align="center">I'm Vaishnavi,🔧 Adaptable Developer 👨‍💻 Transforming ideas into robust applications! 🚀</div>  
   
 
@@ -101,7 +99,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=vaishnavi242002&&style=flat-square" align="center" />
 </div>  
   
 
